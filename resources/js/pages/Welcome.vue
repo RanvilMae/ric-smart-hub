@@ -70,7 +70,7 @@ const logoLayers = [
 </script>
 
 <template>
-    <Head title="Rural Improvement Clubs of the Philippines" />
+    <Head title="Rural Improvement Clubs of the Philippines Inc." />
 
     <div class="min-h-svh bg-background text-foreground">
         <!-- Navigation -->
